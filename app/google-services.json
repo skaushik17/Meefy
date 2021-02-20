@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047608090755",
+    "firebase_url": "https://meefy-d5059.firebaseio.com",
+    "project_id": "meefy-d5059",
+    "storage_bucket": "meefy-d5059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047608090755:android:61632751f68b39767e7bb6",
+        "android_client_info": {
+          "package_name": "com.example.meefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047608090755-1u5idskcuri4in4dmo5gjc4in308e3rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJzSa9nYPz_ap0YIL3wNa6MDbkIMyJiH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047608090755-1u5idskcuri4in4dmo5gjc4in308e3rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
